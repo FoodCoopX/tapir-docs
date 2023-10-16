@@ -60,7 +60,7 @@ a) Angenommen es gibt kein fertiges Segment dafür:
 
 b) Passendes Segment wählen:
 
-1. Segment `Geno-Mitlgied` wählen und + (Plus) klicken \
+1. Segment `Geno-Mitglied` wählen und + (Plus) klicken \
 
 ![Segment Beispiel B](images/user_guide/segment_example_b.png)
 
